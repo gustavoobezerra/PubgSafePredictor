@@ -57,13 +57,8 @@ Este programa carrega as imagens dos mapas como **recursos internos**. Para que 
         ```bash
         java -cp bin safePubg.PUBGSafeZonePredictor
         ```
-        *(O `-cp bin` diz ao Java para procurar as classes compiladas na pasta `bin`)*
+        *(O `-cp bin` diz ao Java para procurar as classes compiladas na pasta `bin`)
 
-## Screenshots
-
-(Opcional: Adicione screenshots da aplicação em funcionamento aqui!)
-* *Exemplo de uso...*
-* *Previsão em Erangel...*
 
 ## Disclaimer
 
