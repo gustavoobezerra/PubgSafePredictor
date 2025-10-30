@@ -2,7 +2,17 @@ package Fundamentos01;
 
 import java.util.Scanner;
 
+/**
+ * Um programa simples que calcula a média salarial de três trabalhadores.
+ * O programa solicita o nome e o salário de cada trabalhador, calcula a média
+ * e exibe o resultado formatado.
+ */
 public class desafio_de_conversao {
+    /**
+     * Ponto de entrada principal do programa.
+     *
+     * @param args Argumentos de linha de comando (não utilizados).
+     */
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
